@@ -18,7 +18,7 @@ public class MenuConsola {
             System.out.println("===== MENÚ PRINCIPAL =====");
             System.out.println("1. Listar empleados");
             System.out.println("2. Generar turnos semanales");
-
+            System.out.println("3. Añadir trabajadores al horario");
             System.out.println("0. Salir");//0 para salir
             System.out.print("Elige una opción: "); // mensaje para pedir opción
             opcion = sc.nextInt(); // leemos un número del usuario
