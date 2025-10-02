@@ -20,7 +20,6 @@ public class MenuConsola {
             System.out.println("2. Generar turnos semanales");
 
             System.out.println("0. Salir");//0 para salir
-            System.out.println("tengo un pollon");
             System.out.print("Elige una opción: "); // mensaje para pedir opción
             opcion = sc.nextInt(); // leemos un número del usuario
             sc.nextLine(); // limpiamos el buffer de entrada
